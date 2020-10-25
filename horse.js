@@ -2,4 +2,4 @@ function horse(){
     //f
 }
 
-module.export = hourse;
+module.exports = hourse;

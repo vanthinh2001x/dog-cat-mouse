@@ -12,4 +12,4 @@ function dog(name){
      console.log('Hi! I am a dog. My name is ' + chalk.blue(this.name));
  }
 
- module.export = cat;
+ module.exports = dog;
